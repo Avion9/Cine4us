@@ -59,6 +59,9 @@ firebase deploy
 
 ## Demo Images
 
-![Movies Page with Search mechanism](https://github.com/Avion9/Cine4us/blob/main/assets/Demo/Demo_All_Movies.PNG?raw=true)
-![Movie Detail Page](https://github.com/Avion9/Cine4us/blob/main/assets/Demo/Demo_Detail.PNG?raw=true)
-![Watching Trailer Layout](https://github.com/Avion9/Cine4us/blob/main/assets/Demo/Demo_Trailer.PNG?raw=true)
+![Movies Page with Search mechanism...](https://github.com/Avion9/Cine4us/blob/main/assets/Demo/Demo_All_Movies.PNG?raw=true)
+*Movies Page with Search mechanism*
+![Movie Detail Page...](https://github.com/Avion9/Cine4us/blob/main/assets/Demo/Demo_Detail.PNG?raw=true)
+*Movie Detail Page*
+![Watching Trailer Layout...](https://github.com/Avion9/Cine4us/blob/main/assets/Demo/Demo_Trailer.PNG?raw=true)
+*Trailer Video Player Layout*
