@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "firebase": "^9.12.1"
+  },
+  "scripts": {
+    "init": "firebase init",
+    "start": "firebase deploy"
+  },
+  "devDependencies": {
+    "firebase-tools": "^11.24.0"
+  }
+}
